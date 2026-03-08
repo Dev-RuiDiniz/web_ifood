@@ -1,0 +1,12 @@
+d:\web_ifood\backend\src\Controllers\bin\Debug\net8.0\Controllers.deps.json
+d:\web_ifood\backend\src\Controllers\bin\Debug\net8.0\Controllers.dll
+d:\web_ifood\backend\src\Controllers\bin\Debug\net8.0\Controllers.pdb
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfoInputs.cache
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfo.cs
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.csproj.CoreCompileInputs.cache
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.sourcelink.json
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.dll
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\refint\Controllers.dll
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\Controllers.pdb
+d:\web_ifood\backend\src\Controllers\obj\Debug\net8.0\ref\Controllers.dll
