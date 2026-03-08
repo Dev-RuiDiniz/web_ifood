@@ -1,58 +1,16 @@
-# Sprint 01 - Auth, Contas e Catalogo Base
+# Sprint 1: Fundação do Monorepo e Autenticação
 
-## Objetivo
+## Objetivos
+- Configurar a estrutura de monorepo com Turborepo.
+- Inicializar o backend com NestJS e Prisma.
+- Implementar o fluxo básico de autenticação (JWT).
 
-Entregar autenticacao inicial e catalogo navegavel no app cliente e painel loja.
+## Tarefas
+- [x] Configurar `package.json` raiz com workspaces.
+- [x] Adicionar `turbo.json`.
+- [x] Inicializar `apps/api` (backend) com NestJS.
+- [x] Definir schema inicial do Prisma (User, Profile).
+- [ ] Implementar Auth Module (Login/Register).
+- [ ] Configurar Docker para Postgres e Redis.
 
-## Escopo funcional
-
-- Cadastro/login por email ou telefone com OTP.
-- Estrutura de perfis (cliente, loja, admin).
-- Cadastro e consulta de lojas, categorias e produtos.
-- Home do cliente com destaque e listagem de lojas.
-
-## Criterios de aceite
-
-- Usuario consegue criar conta e autenticar com token valido.
-- Cliente lista lojas e visualiza produtos por loja.
-- Loja consegue cadastrar e editar item de cardapio.
-- Validacoes de payload aplicadas com schemas compartilhados.
-
-## Entregaveis
-
-- Modulo `Auth & Accounts` funcional (MVP).
-- Modulo `Catalog` funcional para leitura e manutencao basica.
-- Telas base de login e catalogo no mobile e web.
-
-## Tarefas por trilha
-
-### Back-end
-
-- Implementar JWT + refresh token + OTP.
-- Criar endpoints de loja/produto/categoria.
-- Incluir RBAC inicial por role.
-
-### Front-end Web
-
-- `web/loja`: telas de login e gestao de cardapio.
-- `web/admin`: listagem de lojas e status de aprovacao inicial.
-
-### Mobile
-
-- Telas de onboarding, login, home e vitrine da loja.
-- Integrar busca simples por nome de loja/produto.
-
-### QA
-
-- Testes de integracao de auth e catalogo.
-- Casos de erro: token expirado, payload invalido, permissao insuficiente.
-
-### DevOps
-
-- Segredos de auth e banco em ambientes dev/hml.
-- Monitoramento basico de erro de login.
-
-## Riscos e dependencias
-
-- Integracao OTP depende de provedor externo.
-- Definicao de regras de aprovacao de loja pode mudar com produto.
+## Status: EM ANDAMENTO

@@ -1,0 +1,18 @@
+  Determining projects to restore...
+d:\web_ifood\backend\src\Services\Services.csproj : warning NU1903: Package 'Npgsql' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605: Warning As Error: Detected package downgrade: Npgsql from 8.0.6 to 8.0.2. Reference the package directly from the project to select a different version.  [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605:  Services -> Data -> Npgsql.EntityFrameworkCore.PostgreSQL 8.0.11 -> Npgsql (>= 8.0.6)  [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605:  Services -> Npgsql (>= 8.0.2) [d:\web_ifood\backend\src\src.sln]
+  Failed to restore d:\web_ifood\backend\src\Services\Services.csproj (in 879 ms).
+  6 of 7 projects are up-to-date for restore.
+
+Build FAILED.
+
+d:\web_ifood\backend\src\Services\Services.csproj : warning NU1903: Package 'Npgsql' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605: Warning As Error: Detected package downgrade: Npgsql from 8.0.6 to 8.0.2. Reference the package directly from the project to select a different version.  [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605:  Services -> Data -> Npgsql.EntityFrameworkCore.PostgreSQL 8.0.11 -> Npgsql (>= 8.0.6)  [d:\web_ifood\backend\src\src.sln]
+d:\web_ifood\backend\src\Services\Services.csproj : error NU1605:  Services -> Npgsql (>= 8.0.2) [d:\web_ifood\backend\src\src.sln]
+    1 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.24

@@ -1,0 +1,13 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Dtos -> D:\web_ifood\backend\src\Dtos\bin\Debug\net8.0\Dtos.dll
+  Controllers -> d:\web_ifood\backend\src\Controllers\bin\Debug\net8.0\Controllers.dll
+d:\web_ifood\backend\src\Domains\Entities\ChatMessage.cs(5,32): error CS0246: The type or namespace name 'BaseEntity' could not be found (are you missing a using directive or an assembly reference?) [d:\web_ifood\backend\src\Domains\Domains.csproj]
+
+Build FAILED.
+
+d:\web_ifood\backend\src\Domains\Entities\ChatMessage.cs(5,32): error CS0246: The type or namespace name 'BaseEntity' could not be found (are you missing a using directive or an assembly reference?) [d:\web_ifood\backend\src\Domains\Domains.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.81

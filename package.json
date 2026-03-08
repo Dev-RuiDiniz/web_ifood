@@ -1,0 +1,24 @@
+{
+  "name": "web_ifood",
+  "version": "1.0.0",
+  "description": "Plataforma de marketplace de delivery inspirada no iFood",
+  "private": true,
+  "workspaces": [
+    "web/*",
+    "aplicativo/*",
+    "backend/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

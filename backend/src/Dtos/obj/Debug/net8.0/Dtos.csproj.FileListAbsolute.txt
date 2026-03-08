@@ -1,0 +1,12 @@
+d:\web_ifood\backend\src\Dtos\bin\Debug\net8.0\Dtos.deps.json
+d:\web_ifood\backend\src\Dtos\bin\Debug\net8.0\Dtos.dll
+d:\web_ifood\backend\src\Dtos\bin\Debug\net8.0\Dtos.pdb
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.sourcelink.json
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.dll
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\Dtos.pdb
+d:\web_ifood\backend\src\Dtos\obj\Debug\net8.0\ref\Dtos.dll

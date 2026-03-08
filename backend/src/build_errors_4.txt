@@ -1,0 +1,17 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Controllers -> d:\web_ifood\backend\src\Controllers\bin\Debug\net8.0\Controllers.dll
+  Dtos -> d:\web_ifood\backend\src\Dtos\bin\Debug\net8.0\Dtos.dll
+  Domains -> d:\web_ifood\backend\src\Domains\bin\Debug\net8.0\Domains.dll
+  Data -> d:\web_ifood\backend\src\Data\bin\Debug\net8.0\Data.dll
+  Repositories -> d:\web_ifood\backend\src\Repositories\bin\Debug\net8.0\Repositories.dll
+  Services -> d:\web_ifood\backend\src\Services\bin\Debug\net8.0\Services.dll
+d:\web_ifood\backend\src\Api\Program.cs(48,10): error CS1061: 'TracerProviderBuilder' does not contain a definition for 'AddConsoleExporter' and no accessible extension method 'AddConsoleExporter' accepting a first argument of type 'TracerProviderBuilder' could be found (are you missing a using directive or an assembly reference?) [d:\web_ifood\backend\src\Api\Api.csproj]
+
+Build FAILED.
+
+d:\web_ifood\backend\src\Api\Program.cs(48,10): error CS1061: 'TracerProviderBuilder' does not contain a definition for 'AddConsoleExporter' and no accessible extension method 'AddConsoleExporter' accepting a first argument of type 'TracerProviderBuilder' could be found (are you missing a using directive or an assembly reference?) [d:\web_ifood\backend\src\Api\Api.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:03.56
